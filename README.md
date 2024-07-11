@@ -10,4 +10,4 @@ Functions:
 
 ## Screenshot
 
-![Flutter todo app](./app home screen 2.png)
+./master/app home screen 2.png
