@@ -1,4 +1,4 @@
-# Flutter ToDo App
+# ToDo App
 
 An essential Flutter application to manage all your daily tasks.
 
