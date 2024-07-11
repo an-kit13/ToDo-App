@@ -1,11 +1,13 @@
 # Flutter ToDo App
 
-A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
+An essential Flutter application to manage all your daily tasks.
 
-## Watch it on YouTube
-This repository is part of a tutorial on my YouTube.
-- [Flutter ToDo App Tutorial for Beginners](https://youtu.be/K4P5DZ9TRns)
+Functions:
+-Add a Task
+-Delete a Task
+-Update Tasks
+-Search for exixting tasks
 
 ## Screenshot
 
-![Flutter todo app](./flutter-todo-iphone.png)
+![Flutter todo app](./app home screen 2.png)
